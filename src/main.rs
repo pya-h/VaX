@@ -1,4 +1,4 @@
-use DynamicVariable::vax::*;
+use VaX::vax::*;
 
 fn main() {
     let i: f32 = 10.2;

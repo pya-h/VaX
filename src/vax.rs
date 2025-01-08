@@ -1,4 +1,4 @@
-use num::{Float, Integer, Num};
+use num::Num;
 use std::fmt::Display;
 use std::fmt::Formatter;
 
